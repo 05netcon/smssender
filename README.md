@@ -1,2 +1,2 @@
 # smssender
-Sending sms via GSM model
+Sending sms via GSM modem
